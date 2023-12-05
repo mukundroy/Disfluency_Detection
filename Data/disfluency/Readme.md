@@ -2,11 +2,11 @@
 ## ICON 2023
 Supported by HimangY, Bhashini
 
-#Training Data Details
+## Training Data Details
 
-##Languages: Telugu, Hindi, Marathi, Bangla, Kannada, Tamil
+### Languages: Telugu, Hindi, Marathi, Bangla, Kannada, Tamil
 
-###Total tokens including spaces
+#### Total tokens including spaces
   10374 bengali_dev
   71804 bengali_train
   
